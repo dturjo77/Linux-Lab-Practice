@@ -22,6 +22,4 @@ Pay special attention to the following:
 
 Once your investigation is complete, prepare an incident summary along with recommendations based solely on the evidence you have collected.
 
-Remember: A SOC Analyst reaches conclusions based on evidence—not assumptions.
-
 Good luck."
