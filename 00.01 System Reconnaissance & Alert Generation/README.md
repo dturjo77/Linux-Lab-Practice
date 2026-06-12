@@ -1,5 +1,5 @@
 
-# 🛡️ Lab 01 — Brute Force Attack Detection & Response
+# 🛡️ Lab 01 — System Reconnaissance & Alert Generation
 
 <div align="center">
 
@@ -473,7 +473,7 @@ originating from TTY pts/0 under user account 'kali'.
 
 ---
 
-## 📸 Results & Screenshots
+## 📸 Results 
 
 > The following table summarizes the key evidence captured during this lab. Replace placeholder descriptions with actual screenshots from your terminal session.
 
@@ -488,7 +488,6 @@ originating from TTY pts/0 under user account 'kali'.
 | 7 | PAM Deep-Dive | `grep "pam_unix"` | Forensic metadata in logs |
 | 8 | Incident Report | Manual writeup | Structured analyst documentation |
 
-> 📷 **Screenshot Tip:** Use `scrot` or GNOME screenshot tool in Kali to capture terminal output. Name files descriptively: `phase1_system_recon.png`, `phase3_auth_log_detection.png`, etc.
 
 ---
 
@@ -577,16 +576,4 @@ The fundamentals built here are **directly transferable** to enterprise security
 
 ---
 
-<div align="center">
 
----
-
-**Linux Security Labs** | Lab 01 of Series
-
-![Made with](https://img.shields.io/badge/Made_with-Kali_Linux-557C94?style=flat-square&logo=kalilinux)
-![Focus](https://img.shields.io/badge/Focus-Blue_Team_SOC-blue?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-Portfolio_Grade-gold?style=flat-square)
-
-*Part of an ongoing cybersecurity portfolio. All simulations performed in isolated lab environments.*
-
-</div>
