@@ -7,6 +7,7 @@
 <img width="732" height="348" alt="Screenshot 2026-06-12 122937" src="https://github.com/user-attachments/assets/2ed9fa8f-84fd-4129-a183-27f8a54409a7" />
 
 ---
+001 System Reconnaissance & Alert Generation
 
                                                                                                                    
 ┌──(kali㉿kali)-[~]
