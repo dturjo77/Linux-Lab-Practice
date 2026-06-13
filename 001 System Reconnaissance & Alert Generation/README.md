@@ -481,7 +481,9 @@ originating from TTY pts/0 under user account 'kali'.
 
 ---
 
-## 📸 Results 
+## 📸 Results & Screenshots
+
+
 
 > The following table summarizes the key evidence captured during this lab. Replace placeholder descriptions with actual screenshots from your terminal session.
 
