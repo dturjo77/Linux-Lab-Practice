@@ -1,4 +1,4 @@
-# 🔐 Linux Security Labs
+# 🛡️ Lab 02 — SOC Alert Triage: Log Analysis & Failed Login Detection
 
 <div align="center">
 
@@ -10,9 +10,6 @@
 
 </div>
 
----
-
-# 🛡️ Lab 02 — SOC Alert Triage: Log Analysis & Failed Login Detection
 
 > **SOC Intern Onboarding Series** | Investigating SSH Brute Force Alerts · Log Parsing · fail2ban Deployment
 
