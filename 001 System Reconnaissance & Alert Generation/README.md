@@ -14,6 +14,14 @@
 
 </div>
 
+<div align="center">
+
+| 📅 Lab Date | 🖥️ Environment |
+|:-----------:|:-------------:|
+| June 13, 2026 | Kali Linux VM |
+
+</div>
+
 ---
 
 ## 📋 Table of Contents
