@@ -688,7 +688,14 @@ userdel: testserver mail spool (/var/mail/testserver) not found
 
 ## 📸 Results & Screenshots
 
-> 📁 Screenshots stored in `/screenshots/` directory of this repository.
+<img width="935" height="762" alt="image" src="https://github.com/user-attachments/assets/3e05a73f-881f-4b6f-8c39-861a0997f002" />
+<img width="862" height="827" alt="image" src="https://github.com/user-attachments/assets/099c2670-f589-4710-99ec-cb0ddf29df4e" />
+<img width="1096" height="840" alt="image" src="https://github.com/user-attachments/assets/bdbd8598-ac79-408e-9bf9-72981638d290" />
+<img width="952" height="346" alt="image" src="https://github.com/user-attachments/assets/30b8383e-b7f6-4689-9d70-5b9bc3e6d8cf" />
+<img width="936" height="441" alt="image" src="https://github.com/user-attachments/assets/49c4ee58-d7dc-4fdd-a3fa-541c10509b21" />
+<img width="937" height="642" alt="image" src="https://github.com/user-attachments/assets/ed4c3bce-8b8d-46aa-8b85-9b05dc87f625" />
+<img width="926" height="622" alt="image" src="https://github.com/user-attachments/assets/33b4d402-c0ae-4840-aff4-00f527d281d9" />
+<img width="832" height="426" alt="image" src="https://github.com/user-attachments/assets/ef859688-f8ed-4b00-8165-b38d1ff83278" />
 
 <details>
 <summary>📂 Click to expand screenshot index</summary>
@@ -844,42 +851,3 @@ The skills built here — systematic log triage, pattern-based attribution, fail
 
 ---
 
-<div align="center">
-
-### 🔗 Series Navigation
-
-| ← Previous | Current | Next → |
-|:----------:|:-------:|:------:|
-| [Lab 01 — Brute Force Attack](../Lab-01-Brute-Force/README.md) | **Lab 02 — Log Analysis & Detection** | Lab 03 — Coming Soon |
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-
----
-
-**⭐ If this lab helped you, star the repository!**
-
-*Part of the [Linux Security Labs](../README.md) series — hands-on SOC training for aspiring security analysts.*
-
-</div>
-
----
-
-<div align="center">
-<sub>All terminal outputs are from live lab sessions on Kali Linux 2026.1 · Built for educational purposes only</sub>
-</div>
-
-
----
-
-<img width="935" height="762" alt="image" src="https://github.com/user-attachments/assets/3e05a73f-881f-4b6f-8c39-861a0997f002" />
-<img width="862" height="827" alt="image" src="https://github.com/user-attachments/assets/099c2670-f589-4710-99ec-cb0ddf29df4e" />
-<img width="1096" height="840" alt="image" src="https://github.com/user-attachments/assets/bdbd8598-ac79-408e-9bf9-72981638d290" />
-<img width="952" height="346" alt="image" src="https://github.com/user-attachments/assets/30b8383e-b7f6-4689-9d70-5b9bc3e6d8cf" />
-<img width="936" height="441" alt="image" src="https://github.com/user-attachments/assets/49c4ee58-d7dc-4fdd-a3fa-541c10509b21" />
-<img width="937" height="642" alt="image" src="https://github.com/user-attachments/assets/ed4c3bce-8b8d-46aa-8b85-9b05dc87f625" />
-<img width="926" height="622" alt="image" src="https://github.com/user-attachments/assets/33b4d402-c0ae-4840-aff4-00f527d281d9" />
-<img width="832" height="426" alt="image" src="https://github.com/user-attachments/assets/ef859688-f8ed-4b00-8165-b38d1ff83278" />
