@@ -18,7 +18,7 @@
 
 | 📅 Lab Date | 🖥️ Environment |
 |:-----------:|:-------------:|
-| June 13, 2026 | Kali Linux VM |
+| June 12, 2026 | Kali Linux VM |
 
 </div>
 
