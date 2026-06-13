@@ -18,9 +18,9 @@
 
 <div align="center">
 
-| 📅 Lab Date | 🎯 Difficulty | ⏱️ Duration | 🖥️ Environment | 🔗 Series |
-|:-----------:|:-------------:|:-----------:|:---------------:|:---------:|
-| June 13, 2026 | Beginner–Intermediate | ~90 mins | Kali Linux VM | [← Lab 01](../Lab-01-Brute-Force/README.md) |
+| 📅 Lab Date | 🖥️ Environment |
+|:-----------:|:-------------:|
+| June 13, 2026 | Kali Linux VM |
 
 </div>
 
